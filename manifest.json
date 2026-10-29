@@ -1,0 +1,20 @@
+{
+  "name": "બુક્સ ખાતાવહી",
+  "short_name": "ખાતાવહી",
+  "description": "બુક્સ ખાતાવહી - હિસાબ-કિતાબ એપ",
+  "lang": "gu",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F3F5F4",
+  "theme_color": "#1B8A5A",
+  "categories": ["finance", "business", "productivity"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
